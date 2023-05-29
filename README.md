@@ -8,7 +8,7 @@
 ## 〇一部追加したファイル
 - MyPG.h（104～173行）
 
-### 特に力を入れた、もしくは工夫したファイル
+## 特に力を入れた、もしくは工夫したファイル
 - BObject(.h .cpp)
 - MyStructure(.h .cpp)
 - Task_Player(.h .cpp)

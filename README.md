@@ -9,6 +9,9 @@
 ### MyPG.h
 - ゲーム全体で使用する変数追加
 
+## 〇dataフォルダ概要
+- 
+
 ## 特に力を入れた、もしくは工夫したファイル
 - BObject(.h .cpp)
 - MyStructure(.h .cpp)

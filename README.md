@@ -1,11 +1,11 @@
 # Shadow_Adventure
-## 〇制作時に使用したファイル
+## 〇制作時に追加したファイル
 - Tasksフォルダ内のファイル全て
 - MyStructure(.h .cpp)
 - BChara(.h .cpp)
 - BObject(.h .cpp)
 
-## 〇一部追加したファイル
+## 〇内容を一部追加したファイル
 - MyPG.h（104～173行）
 
 ## 特に力を入れた、もしくは工夫したファイル

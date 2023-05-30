@@ -1,15 +1,15 @@
 # Shadow_Adventure
-## 〇制作時に追加したファイル
+## 制作時に追加したファイル
 - Tasksフォルダ内のファイル全て
 - MyStructure(.h .cpp)
 - BChara(.h .cpp)
 - BObject(.h .cpp)
 
-## 〇内容を変更したファイル
+## 内容を変更したファイル
 ### MyPG.h
 - ゲーム全体で使用する変数追加
 
-## 〇dataフォルダ概要
+## dataフォルダ概要
 ### MapMaker
 ゲーム内で制作されたマップを保存するフォルダ
 ### Shader
